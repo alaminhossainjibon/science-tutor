@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Physics",
+        "price": "100",
+        "description": "Physicists are physicists who concentrate on experiments to expand and refine the theories applicable to electronics.",
+        "img": "https://thumbs.dreamstime.com/b/hand-drawn-physics-chalkboard-58775821.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chemistry",
+        "price": "100",
+        "description": "Chemistry is a scientific discipline that involves the study of reactions with substances, their composition, properties, and other elements. An object is something that has mass and acquires space.",
+        "img": "https://www.thoughtco.com/thmb/EpsKarnLz-v0VXY0KKnS_fTX5-U=/2121x1414/filters:fill(auto,1)/GettyImages-545286316-433dd345105e4c6ebe4cdd8d2317fdaa.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mathematics",
+        "price": "150",
+        "description": "Mathematics is a field of knowledge that studies numbers, formulas, structures, shapes, places, quantities and their variations. Mathematics is all around us, in everything we do.",
+        "img": "https://cdn.pixabay.com/photo/2015/11/15/07/47/geometry-1044090__340.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Biology",
+        "price": "180",
+        "description": "Biology is a branch of science that focuses on the study of human evolution, genetics, the origin of life, chemical bonding, atomic structure, and cell biology.",
+        "img": "https://cdn.pixabay.com/photo/2018/07/15/10/44/dna-3539309__480.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Computer Science",
+        "price": "100",
+        "description": "A degree in Computer Science focuses on the theoretical foundations of computation and information along with taking a practical approach to the applications of computation.",
+        "img": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__480.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Microbiology",
+        "price": "300",
+        "description": "Microbiology is the study of unicellular, multicellular and ascellular microorganisms and their respective effects and contributions to the environment.",
+        "img": "https://thumbs.dreamstime.com/b/microscope-microbiological-laboratory-mold-fungal-cultures-bacterial-research-microbiology-microscope-microbiological-131290021.jpg"
+    }
+]
