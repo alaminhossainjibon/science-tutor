@@ -11,6 +11,12 @@ const ServiceDetail = () => {
                     <button className='btn btn-info'>Proceed Checkout</button>
                 </Link>
             </div>
+
+            <div className='tutor-detail'>
+                <h1>Tutor Details: </h1>
+                <h4>Hi!! my all student Welcome!!!</h4>
+                <p>Here all kinds of science department tuition is done. So come to our website now without delay. Science Tutor offers a variety of services here at low cost.</p>
+            </div>
         </div>
     );
 };
