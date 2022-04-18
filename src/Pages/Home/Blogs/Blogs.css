@@ -1,0 +1,14 @@
+.questions-section {
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.questions {
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 20px;
+
+}

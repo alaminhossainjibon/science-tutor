@@ -1,0 +1,13 @@
+.about {
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.img-style {
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 2px solid aqua;
+}
